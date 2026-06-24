@@ -7,7 +7,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/100y-saas)](https://hub.docker.com/r/100y-saas)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**100‑Year SaaS** is a complete, production-ready multi-tenant SaaS platform built for extreme durability and minimal maintenance. It includes authentication, analytics, subscriptions, background jobs, rate limiting, and email notifications—all using only SQLite and Go's standard library.
+**100‑Year SaaS** is a multi-tenant SaaS platform built for extreme durability and minimal maintenance. It includes authentication, analytics, subscriptions, background jobs, rate limiting, and email notifications—all using only SQLite and Go's standard library.
 
 ## ✨ Features
 
